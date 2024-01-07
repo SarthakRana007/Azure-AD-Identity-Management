@@ -74,6 +74,10 @@ Select an Azure resource for user and group access and assign appropriate roles 
 ![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/c43605507c9bee842a3adabe5a1c5b3e55bb3fc4/5.png)
 
 
+<img src="(https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/93092f0328c2ec77562b0f5da75bd60c9d3c882c/1.png)" width="2" height="2" />
+
+
+
 ## FUTURE ENHANCEMENTS
 
 
