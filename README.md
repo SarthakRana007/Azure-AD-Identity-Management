@@ -61,7 +61,7 @@ Lastly, this project underscored the vastness and dynamic nature of Azure. It hi
 
 
 Log into Azure Portal, navigate to Azure Active Directory, explore the AAD Dashboard, open the 'Users' section, and add new user accounts by clicking 'New user' and filling in the details.
-![App Screenshot](https://drive.google.com/file/d/1f9-q45JThII9P8zCa0Nsd72s6NCvg3Jf/view?usp=sharing)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/1c6356a77c7711e6f69b1f12bd766e3e38b53604/1.png)
 
 ![App Screenshot](https://drive.google.com/file/d/1xhSkdyijw_aMQaBiJc1u3fcYj91of8fO/view?usp=drive_link)
 
