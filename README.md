@@ -32,8 +32,6 @@ Assigned roles to users/groups for this resource, utilizing both built-in and cu
 
 ## CHALLENGES AND LEARNINGS
 
-Challenges and Learnings
-
 Challenges
 - Understanding RBAC's Intricacies
 Initially, I grappled with the complexities of Role-Based Access Control (RBAC) in Azure. Determining the appropriate roles and permissions for different resources was more intricate than I anticipated. It required a detailed understanding of each role's scope and limitations. By diligently studying Microsoft's documentation and through hands-on experimentation, I gradually became adept at applying these principles effectively in various scenarios.
