@@ -1,0 +1,14 @@
+{
+  "Name": "VM Operator",
+  "IsCustom": true,
+  "Description": "Can start and stop virtual machines",
+  "Actions": [
+    "Microsoft.Compute/virtualMachines/start/action",
+    "Microsoft.Compute/virtualMachines/deallocate/action"
+  ],
+  "NotActions": [
+    "Microsoft.Compute/virtualMachines/write",
+    "Microsoft.Compute/virtualMachines/delete"
+  ],
+  "AssignableScopes": ["/subscriptions/b23adc90-6f62-47d4-9154-8a0e3679d622"]
+}
