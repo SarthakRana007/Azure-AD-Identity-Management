@@ -59,19 +59,19 @@ Lastly, this project underscored the vastness and dynamic nature of Azure. It hi
 
 
 Log into Azure Portal, navigate to Azure Active Directory, explore the AAD Dashboard, open the 'Users' section, and add new user accounts by clicking 'New user' and filling in the details.
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/1.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/355e76f71a7ba5da857f2bdac7a52565777924c2/AAD-User-Management/Screenshots/1.png)
 
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/2.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/355e76f71a7ba5da857f2bdac7a52565777924c2/AAD-User-Management/Screenshots/2.png)
 
 
 Create new groups in the Azure Active Directory dashboard and assign the created users to these groups according to their roles and departments.
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/3.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/355e76f71a7ba5da857f2bdac7a52565777924c2/AAD-User-Management/Screenshots/3.png)
 
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/4.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/355e76f71a7ba5da857f2bdac7a52565777924c2/AAD-User-Management/Screenshots/4.png)
 
 
 Select an Azure resource for user and group access and assign appropriate roles to them in the resource's IAM settings
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/5.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/355e76f71a7ba5da857f2bdac7a52565777924c2/AAD-User-Management/Screenshots/5.png)
 
 
 
