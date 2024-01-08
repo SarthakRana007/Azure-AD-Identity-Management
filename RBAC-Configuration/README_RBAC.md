@@ -38,9 +38,9 @@ I gained valuable hands-on experience with Azure's RBAC, sharpening my skills in
 ## Screenshots
 
 JSON Role Definition:
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/b8c2fe292198333ddbb668b660692039826070b8/RBAC-Configuration/Screenshots/1.png)
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/b8c2fe292198333ddbb668b660692039826070b8/RBAC-Configuration/Screenshots/1.1.png)
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/b8c2fe292198333ddbb668b660692039826070b8/RBAC-Configuration/Screenshots/1.2.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/d7f6d59106ff5eef770efc16feb513c926413d39/RBAC-Configuration/Screenshots/1.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/d7f6d59106ff5eef770efc16feb513c926413d39/RBAC-Configuration/Screenshots/1.1.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/d7f6d59106ff5eef770efc16feb513c926413d39/RBAC-Configuration/Screenshots/1.2.png)
 
 Role Assignment in Azure Portal:
 
