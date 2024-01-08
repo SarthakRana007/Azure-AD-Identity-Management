@@ -59,19 +59,19 @@ Lastly, this project underscored the vastness and dynamic nature of Azure. It hi
 
 
 Log into Azure Portal, navigate to Azure Active Directory, explore the AAD Dashboard, open the 'Users' section, and add new user accounts by clicking 'New user' and filling in the details.
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/1c6356a77c7711e6f69b1f12bd766e3e38b53604/1.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/1.png)
 
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/c43605507c9bee842a3adabe5a1c5b3e55bb3fc4/2.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/2.png)
 
 
 Create new groups in the Azure Active Directory dashboard and assign the created users to these groups according to their roles and departments.
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/c43605507c9bee842a3adabe5a1c5b3e55bb3fc4/3.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/3.png)
 
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/3e15e945a79325fa8b428e93e78f22e484fd4ddf/4.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/4.png)
 
 
 Select an Azure resource for user and group access and assign appropriate roles to them in the resource's IAM settings
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/c43605507c9bee842a3adabe5a1c5b3e55bb3fc4/5.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/801d98399079bf2016ec3ef9397d3c77fcd0554b/AAD-User-Management/5.png)
 
 
 
