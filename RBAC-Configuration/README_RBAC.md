@@ -37,5 +37,28 @@ In this project, I took on the challenge of enhancing our Azure environment's se
 I gained valuable hands-on experience with Azure's RBAC, sharpening my skills in cloud security. I learned the importance of precise role assignments and how to navigate Azure's environment, especially the Cloud Shell.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+JSON Role Definition:
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/b8c2fe292198333ddbb668b660692039826070b8/RBAC-Configuration/Screenshots/1.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/b8c2fe292198333ddbb668b660692039826070b8/RBAC-Configuration/Screenshots/1.1.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/b8c2fe292198333ddbb668b660692039826070b8/RBAC-Configuration/Screenshots/1.2.png)
+
+Role Assignment in Azure Portal:
+
+IT Admin(User) assigned the role VM OPERATOR.
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/2f6c341136c8d98e6f7b389da7cf779d9ba68503/RBAC-Configuration/Screenshots/2.png)
+
+Regular Employee(User) assigned the role READER.
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/2f6c341136c8d98e6f7b389da7cf779d9ba68503/RBAC-Configuration/Screenshots/3.png)
+
+
+Testing as Different Users:
+Signed in as IT Admin and able to run Virtual Machine AZ-VM.
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/e800ca55828da9d887b3158a0627dfd0c155b84d/RBAC-Configuration/Screenshots/4.png)
+
+IT Admin not authorized to create or delete VM
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/e800ca55828da9d887b3158a0627dfd0c155b84d/RBAC-Configuration/Screenshots/5.png)
+
+Regular Employee assigned as Reader for Storage account TechSolConfidential not authorized to configure settings.
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/e800ca55828da9d887b3158a0627dfd0c155b84d/RBAC-Configuration/Screenshots/6.png)
+
 
