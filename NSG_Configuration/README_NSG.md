@@ -49,7 +49,7 @@ Steps:
 - Outcome: Successfully established an SSH connection to AZ-VM after resolving these issues.
 
 ![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/5.1.png)
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Her](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/5.png)e)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/5.png)
 
 ## Blocking and Testing FTP Access
 - Action: Set up NSG rules to block FTP traffic and conducted tests to confirm the blockage.
