@@ -45,10 +45,10 @@ JSON Role Definition:
 Role Assignment in Azure Portal:
 
 IT Admin(User) assigned the role VM OPERATOR.
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/2f6c341136c8d98e6f7b389da7cf779d9ba68503/RBAC-Configuration/Screenshots/2.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/d7f6d59106ff5eef770efc16feb513c926413d39/RBAC-Configuration/Screenshots/2.png)
 
 Regular Employee(User) assigned the role READER.
-![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/2f6c341136c8d98e6f7b389da7cf779d9ba68503/RBAC-Configuration/Screenshots/3.png)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/d7f6d59106ff5eef770efc16feb513c926413d39/RBAC-Configuration/Screenshots/3.png)
 
 
 Testing as Different Users:
