@@ -16,13 +16,13 @@ This project was focused on mastering Azure Network Security Groups (NSGs) to ma
 -Action: Created an NSG named WebServerNSG in Azure, specifying rules to allow HTTP (port 80) and SSH (port 22) traffic, and block others like FTP (port 21).
 
 WebServerNSG inbound rules list 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/1.png)
 
 ALso Az-VM 's networking section(showing ports allowed or disallowed)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/2.png)
 
 Added WebServerNSG to the Subnet of Virtual Machine (Az-VM)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/3.png)
 
 
 ## Allowing and Testing HTTP Access
@@ -35,7 +35,7 @@ Steps:
 5) Troubleshooting: Realized the need to adjust WebServerNSG settings and VM's firewall to allow HTTP traffic properly.
 - Outcome: Successfully accessed the VM's web service via HTTP after adjustments.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/4.png)
 
 ## Enabling and Troubleshooting SSH Access
 - Action: Configured and tested SSH access to AZ-VM.
@@ -48,8 +48,8 @@ Steps:
 3) Reverified WebServerNSG configurations in Azure.
 - Outcome: Successfully established an SSH connection to AZ-VM after resolving these issues.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/5.1.png)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Her](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/5.png)e)
 
 ## Blocking and Testing FTP Access
 - Action: Set up NSG rules to block FTP traffic and conducted tests to confirm the blockage.
@@ -59,7 +59,8 @@ Steps:
 3) Observation: The connection attempt failed, indicating the effectiveness of the NSG rule in blocking FTP access.
 - Outcome: Confirmed that FTP traffic was successfully blocked by the NSG, enhancing the security of my Azure environment.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/SarthakRana007/Azure-AD-Identity-Management/blob/af7d278b5c75e9e147380270abe48a3f6b3145c2/NSG_Configuration/Screenshots/6.png)
+
 ## LESSON LEARNED
 
 - Gained practical experience in configuring Azure NSGs for different traffic types.
